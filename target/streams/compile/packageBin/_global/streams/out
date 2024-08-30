@@ -1,37 +1,31 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/ptro/code/unal/TLP/Proyecto Scala/proyecto/target/scala-3.3.0/hello-world_3-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/ptro/Code/un/TLP/Proyecto_Scala/target/scala-3.3.0/hello-world_3-1.0.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Main.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/code/unal/TLP/Proyecto Scala/proyecto/target/scala-3.3.0/classes/Main.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Museo[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/code/unal/TLP/Proyecto Scala/proyecto/target/scala-3.3.0/classes/Museo[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Museo/Tipologia$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/code/unal/TLP/Proyecto Scala/proyecto/target/scala-3.3.0/classes/Museo/Tipologia$$anon$1.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Museo/Tipologia.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/code/unal/TLP/Proyecto Scala/proyecto/target/scala-3.3.0/classes/Museo/Tipologia.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Museo/SegmentarObra.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/code/unal/TLP/Proyecto Scala/proyecto/target/scala-3.3.0/classes/Museo/SegmentarObra.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Museo/Tipologia.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/code/unal/TLP/Proyecto Scala/proyecto/target/scala-3.3.0/classes/Museo/Tipologia.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Museo/Obra.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/code/unal/TLP/Proyecto Scala/proyecto/target/scala-3.3.0/classes/Museo/Obra.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Museo/Tipologia$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/code/unal/TLP/Proyecto Scala/proyecto/target/scala-3.3.0/classes/Museo/Tipologia$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Museo/SegmentarObra.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/code/unal/TLP/Proyecto Scala/proyecto/target/scala-3.3.0/classes/Museo/SegmentarObra.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Museo/Obra.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/code/unal/TLP/Proyecto Scala/proyecto/target/scala-3.3.0/classes/Museo/Obra.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Museo/SegmentarObra$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/code/unal/TLP/Proyecto Scala/proyecto/target/scala-3.3.0/classes/Museo/SegmentarObra$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MCD[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/code/unal/TLP/Proyecto Scala/proyecto/target/scala-3.3.0/classes/MCD[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MCD/Mcd.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/code/unal/TLP/Proyecto Scala/proyecto/target/scala-3.3.0/classes/MCD/Mcd.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MCD/Mcd$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/code/unal/TLP/Proyecto Scala/proyecto/target/scala-3.3.0/classes/MCD/Mcd$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MCD/Mcd.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/code/unal/TLP/Proyecto Scala/proyecto/target/scala-3.3.0/classes/MCD/Mcd.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/code/unal/TLP/Proyecto Scala/proyecto/target/scala-3.3.0/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/Code/un/TLP/Proyecto_Scala/target/scala-3.3.0/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Museo[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/Code/un/TLP/Proyecto_Scala/target/scala-3.3.0/classes/Museo[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Museo/Obra.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/Code/un/TLP/Proyecto_Scala/target/scala-3.3.0/classes/Museo/Obra.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Museo/Obra.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/Code/un/TLP/Proyecto_Scala/target/scala-3.3.0/classes/Museo/Obra.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Museo/Tipologia.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/Code/un/TLP/Proyecto_Scala/target/scala-3.3.0/classes/Museo/Tipologia.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Museo/Tipologia$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/Code/un/TLP/Proyecto_Scala/target/scala-3.3.0/classes/Museo/Tipologia$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Museo/Tipologia$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/Code/un/TLP/Proyecto_Scala/target/scala-3.3.0/classes/Museo/Tipologia$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Museo/Tipologia.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/Code/un/TLP/Proyecto_Scala/target/scala-3.3.0/classes/Museo/Tipologia.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/Code/un/TLP/Proyecto_Scala/target/scala-3.3.0/classes/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MCD[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/Code/un/TLP/Proyecto_Scala/target/scala-3.3.0/classes/MCD[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MCD/Mcd$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/Code/un/TLP/Proyecto_Scala/target/scala-3.3.0/classes/MCD/Mcd$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MCD/Mcd.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/Code/un/TLP/Proyecto_Scala/target/scala-3.3.0/classes/MCD/Mcd.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MCD/Mcd.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/Code/un/TLP/Proyecto_Scala/target/scala-3.3.0/classes/MCD/Mcd.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/code/unal/TLP/Proyecto Scala/proyecto/target/scala-3.3.0/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ptro/Code/un/TLP/Proyecto_Scala/target/scala-3.3.0/classes/Main.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

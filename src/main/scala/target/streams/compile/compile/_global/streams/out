@@ -1,0 +1,76 @@
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:1:8: not found: object MCD[0m
+[0m[[0m[31merror[0m] [0m[0mimport MCD.Mcd._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:2:8: not found: object Museo[0m
+[0m[[0m[31merror[0m] [0m[0mimport Museo._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:6:21: not found: type Obra[0m
+[0m[[0m[31merror[0m] [0m[0m    val obra1 = new Obra("Alejandro Lopez", 2020, "paisaje", Tipologia.Pintura, 1500)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:6:62: not found: value Tipologia[0m
+[0m[[0m[31merror[0m] [0m[0m    val obra1 = new Obra("Alejandro Lopez", 2020, "paisaje", Tipologia.Pintura, 1500)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:7:21: not found: type Obra[0m
+[0m[[0m[31merror[0m] [0m[0m    val obra2 = new Obra("María González", 2018, "retrato", Tipologia.Escultura, 2500)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:7:61: not found: value Tipologia[0m
+[0m[[0m[31merror[0m] [0m[0m    val obra2 = new Obra("María González", 2018, "retrato", Tipologia.Escultura, 2500)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:8:21: not found: type Obra[0m
+[0m[[0m[31merror[0m] [0m[0m    val obra3 = new Obra("Juan Pérez", 2021, "abstracción", Tipologia.Pintura, 1800)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:8:61: not found: value Tipologia[0m
+[0m[[0m[31merror[0m] [0m[0m    val obra3 = new Obra("Juan Pérez", 2021, "abstracción", Tipologia.Pintura, 1800)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:9:21: not found: type Obra[0m
+[0m[[0m[31merror[0m] [0m[0m    val obra4 = new Obra("Laura Martínez", 2019, "bodegón", Tipologia.Escultura, 1200)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:9:61: not found: value Tipologia[0m
+[0m[[0m[31merror[0m] [0m[0m    val obra4 = new Obra("Laura Martínez", 2019, "bodegón", Tipologia.Escultura, 1200)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:10:21: not found: type Obra[0m
+[0m[[0m[31merror[0m] [0m[0m    val obra5 = new Obra("Carlos Fernández", 2022, "paisaje urbano", Tipologia.Audio, 2200)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:10:70: not found: value Tipologia[0m
+[0m[[0m[31merror[0m] [0m[0m    val obra5 = new Obra("Carlos Fernández", 2022, "paisaje urbano", Tipologia.Audio, 2200)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:11:21: not found: type Obra[0m
+[0m[[0m[31merror[0m] [0m[0m    val obra6 = new Obra("Sofía Díaz", 2020, "escultura clásica", Tipologia.Escultura, 3000)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:11:67: not found: value Tipologia[0m
+[0m[[0m[31merror[0m] [0m[0m    val obra6 = new Obra("Sofía Díaz", 2020, "escultura clásica", Tipologia.Escultura, 3000)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:12:21: not found: type Obra[0m
+[0m[[0m[31merror[0m] [0m[0m    val obra7 = new Obra("Pedro Gómez", 2021, "naturaleza muerta", Tipologia.Pintura, 1600)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:12:68: not found: value Tipologia[0m
+[0m[[0m[31merror[0m] [0m[0m    val obra7 = new Obra("Pedro Gómez", 2021, "naturaleza muerta", Tipologia.Pintura, 1600)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:13:21: not found: type Obra[0m
+[0m[[0m[31merror[0m] [0m[0m    val obra8 = new Obra("Isabel Romero", 2019, "figura humana", Tipologia.Escultura, 2700)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:13:66: not found: value Tipologia[0m
+[0m[[0m[31merror[0m] [0m[0m    val obra8 = new Obra("Isabel Romero", 2019, "figura humana", Tipologia.Escultura, 2700)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:14:21: not found: type Obra[0m
+[0m[[0m[31merror[0m] [0m[0m    val obra9 = new Obra("Luis Hernández", 2022, "surrealismo", Tipologia.Pintura, 2100)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:14:65: not found: value Tipologia[0m
+[0m[[0m[31merror[0m] [0m[0m    val obra9 = new Obra("Luis Hernández", 2022, "surrealismo", Tipologia.Pintura, 2100)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:15:22: not found: type Obra[0m
+[0m[[0m[31merror[0m] [0m[0m    val obra10 = new Obra("Ana López", 2023, "abstracto", Tipologia.Escultura, 2800)    [0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:15:59: not found: value Tipologia[0m
+[0m[[0m[31merror[0m] [0m[0m    val obra10 = new Obra("Ana López", 2023, "abstracto", Tipologia.Escultura, 2800)    [0m
+[0m[[0m[31merror[0m] [0m[0m                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:17:21: not found: type Obra[0m
+[0m[[0m[31merror[0m] [0m[0m    val obras: List[Obra] = List(obra1, obra2, obra3, obra4, obra5, obra6, obra7, obra8, obra9, obra10);[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:19:13: not found: value SegmentarObra[0m
+[0m[[0m[31merror[0m] [0m[0m    println(SegmentarObra.segmentarObras(obras, Tipologia.Pintura))[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:19:49: not found: value Tipologia[0m
+[0m[[0m[31merror[0m] [0m[0m    println(SegmentarObra.segmentarObras(obras, Tipologia.Pintura))[0m
+[0m[[0m[31merror[0m] [0m[0m                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m25 errors found[0m

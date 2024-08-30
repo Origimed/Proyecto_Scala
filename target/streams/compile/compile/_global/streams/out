@@ -1,5 +1,7 @@
-[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: /home/ptro/code/unal/TLP/Proyecto Scala/proyecto/src/main/scala/Main.scala:20:17 [0m[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m20 |[0m    println(Obra.segmentarObras(obras, Tipologia.Pintura))[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m            ^^^^^^^^^^^^^^^^^^^[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m   |[0m            value segmentarObras is not a member of object Museo.Obra[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /home/ptro/Code/un/TLP/Proyecto_Scala/src/main/scala/Main.scala:24:6 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m24 |[0m      end [0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m      ^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m      Not found: end[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m
