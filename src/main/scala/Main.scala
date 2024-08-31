@@ -30,7 +30,13 @@ import Museo._
     obras.filter(_.año < 2004 ).sortBy(_.precio).lastOption.foreach(println)
 
 
+    ////////////////////// Patrimonio Actual de Museo //////////////////////
 
+    var patrimonio: Int = obras.map(_.precio).sum
+
+    println("\nEl patrimonio actual del museo es: " + patrimonio)
+
+    
 
 
   } 
