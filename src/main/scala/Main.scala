@@ -1,6 +1,7 @@
 import MCD.Mcd._
 import Museo._
 
+
   object Main extends App {
 
     val obra1 = new Obra("Alejandro Lopez", 1993, "paisaje", Tipologia.Pintura, 1500)
@@ -25,18 +26,40 @@ import Museo._
 
 
 
-      //filtro de obras con mas de 20 años y tomar la obra con mayor precio
+    ///////////// filtro de obras con mas de 20 años y tomar la obra con mayor precio /////////////////////
+
     println("\nLa obra que tiene mayor precio y tiene mas de 20 años es:") 
     obras.filter(_.año < 2004 ).sortBy(_.precio).lastOption.foreach(println)
 
 
     ////////////////////// Patrimonio Actual de Museo //////////////////////
 
-    var patrimonio: Int = obras.map(_.precio).sum
+    var patrimonio: Double = obras.map(_.precio).sum
 
     println("\nEl patrimonio actual del museo es: " + patrimonio)
 
+    /////////////////////// Ordenas Obras Por Año Recursivamente ///////////////////////////////
+
+    val listaOredenadaAño: List[Obra] = OrdenarObrasPorAnio.ordenarObrasPorAnio(obras)
+
+    println("\nObras Ordenas Por Año:")
+
+    listaOredenadaAño.foreach(println)
+
+    ////////////////////// Ordenar Obras por Precio Funcionalmente ///////////////////////////////
+
+    val listaOredenadaPrecio: List[Obra] = obras.sortBy(_.precio)
+
+    println("\nObras Ordenas Por Precio:")
+
+    listaOredenadaPrecio.foreach(println)
+
+    ///////////////////////Descuento para obras Antiguas (de año menor o igual al 2020) ////////////////////////////////////////7
+
+    println("\nLas obras Con descuento para el dias viernes son: \n")
+
+    Descuento.obrasConDescuento(obras,"ViErnes")
+
+
     
-
-
-  } 
+} 

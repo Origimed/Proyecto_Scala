@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(af4d721e-aab4-4dae-bfeb-82007fccdd28), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating hello-world_3[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved hello-world_3 dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating hello-world_3[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved hello-world_3 dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mUpdating hello-world_3[0m
+[0m[[0m[0minfo[0m] [0m[0mResolved hello-world_3 dependencies[0m
+[0m[[0m[0minfo[0m] [0m[0mFetching artifacts of hello-world_3[0m
+[0m[[0m[0minfo[0m] [0m[0mFetched artifacts of hello-world_3[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 2 Scala sources to /home/al/Code/UNAL/TLP/Proyecto_Scala/target/scala-3.3.0/classes ...[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 105 s (01:45), completed 31/08/2024, 12:53:01 a. m.[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
