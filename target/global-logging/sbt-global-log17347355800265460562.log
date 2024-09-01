@@ -1,6 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(compile, Some(487bc568-03b9-4a65-9d49-566027c18a0b), Some(CommandSource(console0)))[0m
-[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / compile[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
-[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/al/Code/UNAL/TLP/Proyecto_Scala/target/scala-3.3.0/classes ...[0m
-[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1 s, completed 31/08/2024, 3:05:43 p. m.[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
